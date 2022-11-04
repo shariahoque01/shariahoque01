@@ -11,7 +11,7 @@ A senior year Statistics and Quantitative Modeling undergraduate student at Baru
 
 **Specialties:** Data Analysis | Data Mining | Data Management | Statistical Techniques | Programming Languages | Microsoft Office | Technology | Entrepreneurial | Real Estate | Healthcare
 
-Skills: PYTHON / SQL / R / HTML / CSS
+**Skills:** PYTHON / SQL / R / HTML / CSS
 
 - 🔭 I’m currently working on a Classification Project 
 - 🌱 I’m currently learning Data Science Tools 
