@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**shariahoque01/shariahoque01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### Hi there 👋, my name is Sharia Hoque 
 #### I am an Undergraduate Student and Analyst 
@@ -32,4 +31,3 @@ Skills: PYTHON / SQL / R / HTML / CSS
 
 
 
--->
