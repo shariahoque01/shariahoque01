@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, my name is Sharia Hoque 
+### My name is Sharia Hoque 
 #### I am an Undergraduate Student and Analyst 
 ![I am an Undergraduate Student and Analyst ](https://collectivedesignagency.com/wp-content/uploads/2021/11/1547069680_Gif-Hacker.gif)
 
