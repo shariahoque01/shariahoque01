@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### My name is Sharia Hoque 
 
-![I am an Undergraduate Student and Analyst ](https://collectivedesignagency.com/wp-content/uploads/2021/11/1547069680_Gif-Hacker.gif)
 
 A senior year Statistics and Quantitative Modeling undergraduate student at Baruch College Zicklin School of Business (CUNY) with a keen interest in Data, Technology and Business. Currently I am a fellow in Cuny Tech Prep where I am developing a year-long project with Python and trendy Data Science tools. 
 
