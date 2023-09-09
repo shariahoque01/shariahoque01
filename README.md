@@ -2,7 +2,7 @@
 ### My name is Sharia Hoque 
 
 
-A senior year Statistics and Quantitative Modeling undergraduate student at Baruch College Zicklin School of Business (CUNY) with a keen interest in Data, Technology, and Business. =
+A senior year Statistics and Quantitative Modeling undergraduate student at Baruch College Zicklin School of Business (CUNY) with a keen interest in Data, Technology, and Business. 
 
 
 **Skills:** PYTHON / SQL / R 
