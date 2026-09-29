@@ -14,6 +14,7 @@ A Statistics and Quantitative Modeling undergraduate student at Baruch College Z
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shariahoque01)  
 
+[![Sharia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariahoque01)](https://github.com/shariahoque01/github-readme-activity-graph)
 
 
 
